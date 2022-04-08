@@ -12,7 +12,6 @@ let posts = postFiles.map((postFile) => {
 
     let response = {
         "slug": postFile.replace(".md", ""),
-        "title": meta.title,
         "content": html,
         ...meta
     }

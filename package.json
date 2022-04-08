@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node ."
+    "start": "rm -rf build && node ."
   },
   "dependencies": {
     "showdown": "^2.0.3"
