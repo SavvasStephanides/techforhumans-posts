@@ -1,4 +1,5 @@
 ---
+series: explained
 title: CSS, explained.
 publishDate: 2022/01/16 17:57
 thumbnail: css.png

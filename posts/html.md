@@ -1,4 +1,5 @@
 ---
+series: explained
 title: HTML, explained.
 publishDate: 2022/01/09 17:57
 thumbnail: html.png
