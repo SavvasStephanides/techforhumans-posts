@@ -16,7 +16,9 @@ let posts = postFiles.map((postFile) => {
         ...meta
     }
 
-    response.keywords = response.keywords.split(",").map(word => word.trim())
+    if(response.keywords){
+        response.keywords = response.keywords.split(",").map(word => word.trim())
+    }
 
     return response
 })
