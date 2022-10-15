@@ -24,4 +24,5 @@ let posts = postFiles.map((postFile) => {
 })
 
 fs.mkdirSync("build")
-fs.writeFileSync("build/posts.json", JSON.stringify(posts))
+fs.mkdirSync("build/posts")
+fs.writeFileSync("build/posts/all.json", JSON.stringify(posts))
