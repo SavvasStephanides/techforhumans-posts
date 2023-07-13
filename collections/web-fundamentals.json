@@ -1,0 +1,6 @@
+{
+    "meta": {
+        "name": "Web fundamentals"
+    },
+    "posts": ["html", "css", "javascript"]
+}

@@ -1,0 +1,6 @@
+{
+    "meta": {
+        "name": "Programming basics"
+    },
+    "posts": ["variables", "if-statements", "for-loops"]
+}
