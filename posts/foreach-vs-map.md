@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Should I use forEach() or map()?
 publishDate: 2021/03/28 15:46
 thumbnail: loop.png

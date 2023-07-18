@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Javascript Promises, explained.
 publishDate: 2021/03/23 13:57
 thumbnail: promise.png

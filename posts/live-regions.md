@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: ARIA live regions, explained.
 publishDate: 2021/08/03 14:00
 thumbnail: a11y.png

@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Serverless, explained.
 publishDate: 2021/12/13 12:25
 thumbnail: serverless.png

@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@types/node@^20.4.2":
+  version "20.4.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.4.2.tgz#129cc9ae69f93824f92fac653eebfb4812ab4af9"
+  integrity sha512-Dd0BYtWgnWJKwO1jkmTrzofjK2QXXcai0dmtzvIBhcA+RsG5h8R3xlyta0kGOZRNfL9GuRtb1knmPEhQrePCEw==
+
 commander@^9.0.0:
   version "9.1.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-9.1.0.tgz#a6b263b2327f2e188c6402c42623327909f2dbec"
@@ -13,3 +18,8 @@ showdown@^2.0.3:
   integrity sha512-jHytkv5c5YFTAOYIIaTT1zLL/aC+7C1FiP0CIGQozhHnnFSbor1oYkaNqWFL6CpB3zJNPPSxJrAlsHgzN14knQ==
   dependencies:
     commander "^9.0.0"
+
+typescript@^5.1.6:
+  version "5.1.6"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.1.6.tgz#02f8ac202b6dad2c0dd5e0913745b47a37998274"
+  integrity sha512-zaWCozRZ6DLEWAWFrVDz1H6FVXzUSfTy5FUMWsQlU8Ym5JP9eO4xkTIROFCQvhQf61z6O/G6ugw3SgAnvvm+HA==

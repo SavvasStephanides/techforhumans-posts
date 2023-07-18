@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Javascript, explained.
 publishDate: 2022/02/10 14:00
 thumbnail: js.png

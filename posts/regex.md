@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Regular expressions, explained
 publishDate: 2021/05/25 11:01
 thumbnail: regex.png

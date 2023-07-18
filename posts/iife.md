@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Immediately Invoked Function Expressions (IIFE), explained.
 publishDate: 2021/07/26 14:33
 thumbnail: iife.png

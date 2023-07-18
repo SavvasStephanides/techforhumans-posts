@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Javascript Prototypes, explained.
 publishDate: 2021/10/14 14:33
 thumbnail: jsproto.png

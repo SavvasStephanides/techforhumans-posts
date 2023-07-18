@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Git, explained.
 publishDate: 2021/05/06 9:00
 thumbnail: git.png

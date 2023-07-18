@@ -1,5 +1,4 @@
 ---
-series: explained
 title: CSS Grid, explained.
 publishDate: 2022/05/26 12:00
 thumbnail: cssgrid.png

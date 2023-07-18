@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Should I use Flexbox or CSS Grid?
 publishDate: 2021/04/13 16:09
 thumbnail: grid.png

@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Graph databases, explained.
 publishDate: 2021/11/10 12:25
 thumbnail: graphdb.png

@@ -1,5 +1,4 @@
 ---
-series: explained
 title: Javascript Callback functions, explained.
 publishDate: 2022/01/06 14:00
 thumbnail: callback.png

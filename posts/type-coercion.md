@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Type coercion in Javascript, explained.
 publishDate: 2021/09/02 09:00
 thumbnail: typecoercion.png

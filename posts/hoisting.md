@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Javascript Hoisting, explained.
 publishDate: 2021/07/19 13:00
 thumbnail: hoisting.png

@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: React Hooks, explained.
 publishDate: 2021/10/19 14:33
 thumbnail: reacthooks.png

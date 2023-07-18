@@ -4,9 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "rm -rf build && node ."
+    "build": "rm -rf build && tsc index.ts && node ."
   },
   "dependencies": {
     "showdown": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.2",
+    "typescript": "^5.1.6"
   }
 }

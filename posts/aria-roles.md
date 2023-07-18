@@ -1,5 +1,4 @@
 ---
-series: explained
 title: ARIA roles, explained.
 publishDate: 2021/07/29 14:00
 thumbnail: a11y.png

@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Vue, explained.
 description: Vue is a progressive Javascript framework for building complex user interfaces. This is a simple explanation of what it is.
 thumbnail: vue.png

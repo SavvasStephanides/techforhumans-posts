@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Test-driven Development, explained.
 publishDate: 2021/07/29 14:00
 thumbnail: tdd.png

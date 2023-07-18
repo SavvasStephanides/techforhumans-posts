@@ -1,5 +1,4 @@
 ---
-series: explained
 title: Arrays, explained.
 publishDate: 2021/09/09 12:00
 thumbnail: arrays.png

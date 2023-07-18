@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: For loops, explained.
 publishDate: 2021/10/04 14:33
 thumbnail: forloops.png

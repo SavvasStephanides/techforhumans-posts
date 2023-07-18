@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Currying in Javascript, explained.
 publishDate: 2021/09/14 12:00
 thumbnail: currying.png

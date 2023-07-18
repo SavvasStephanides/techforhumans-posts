@@ -1,5 +1,4 @@
 ---
-series: explained
 title: aria-label in accessibility, explained.
 publishDate: 2021/08/18 08:47
 thumbnail: arialabel.png

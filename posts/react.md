@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: React, explained
 publishDate: 2021/03/26 10:27
 thumbnail: react.png

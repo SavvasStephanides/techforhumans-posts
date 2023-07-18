@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Responsive design, explained.
 publishDate: 2022/01/27 14:33
 thumbnail: rwd.png

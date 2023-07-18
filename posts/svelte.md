@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Svelte, explained.
 description: Svelte is a Javascript framework that helps you build blazing fast web applications. This is Svelte explained.
 thumbnail: svelte.png

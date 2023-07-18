@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Unit testing, explained
 publishDate: 2021/04/27 15:30
 thumbnail: tube.png

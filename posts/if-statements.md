@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: if statements, explained.
 publishDate: 2021/09/07 14:33
 thumbnail: ifstatements.png

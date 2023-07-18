@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: GraphQL, explained.
 publishDate: 2021/06/03 14:33
 thumbnail: gql.png

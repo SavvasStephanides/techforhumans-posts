@@ -1,5 +1,4 @@
 ---
-series: explained
 title: API, explained.
 publishDate: 2021/07/14 12:00
 thumbnail: api.png

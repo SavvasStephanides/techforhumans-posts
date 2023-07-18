@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Variables, explained.
 publishDate: 2021/09/06 09:00
 thumbnail: variablesexplained.png

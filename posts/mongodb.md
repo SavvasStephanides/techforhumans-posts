@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: MongoDB, explained.
 publishDate: 2021/11/17 9:30
 thumbnail: mongodb.png

@@ -1,5 +1,4 @@
 ---
-series: explained
 title: CSS Flexbox, explained.
 publishDate: 2022/05/11 12:00
 thumbnail: flexbox.png

@@ -1,5 +1,5 @@
 ---
-series: explained
+
 title: Memoization, explained.
 publishDate: 2021/09/21 14:00
 thumbnail: memoization.png
