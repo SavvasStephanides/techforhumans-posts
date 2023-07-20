@@ -1,6 +1,6 @@
 ---
 
-title: Typescript, explained.
+title: Typescript
 publishDate: 2021/05/12 14:00
 thumbnail: typescript.png
 ---

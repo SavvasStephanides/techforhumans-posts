@@ -1,6 +1,6 @@
 ---
 
-title: Javascript Promises, explained.
+title: Javascript Promises
 publishDate: 2021/03/23 13:57
 thumbnail: promise.png
 description: Promises in Javascript are a way of isolating something that will likely take a while to complete. Here's how it works

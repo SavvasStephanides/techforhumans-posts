@@ -1,6 +1,6 @@
 ---
 
-title: Javascript Hoisting, explained.
+title: Javascript Hoisting
 publishDate: 2021/07/19 13:00
 thumbnail: hoisting.png
 description: A brief and simple explanation of Hoisting in Javascript

@@ -1,8 +1,8 @@
 ---
-title: Javascript Callback functions, explained.
+title: Javascript Callback functions
 publishDate: 2022/01/06 14:00
 thumbnail: callback.png
-description: Callback functions in Javascript, explained.
+description: Callback functions in Javascript
 keywords: javascript, promises, callback functions
 twitterimage: https://savvas.me/assets/callback-tw.png
 ---

@@ -1,6 +1,6 @@
 ---
 
-title: Currying in Javascript, explained.
+title: Currying in Javascript
 publishDate: 2021/09/14 12:00
 thumbnail: currying.png
 description: An introduction to currying in Javascript

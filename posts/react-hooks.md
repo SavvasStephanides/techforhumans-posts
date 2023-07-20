@@ -1,6 +1,6 @@
 ---
 
-title: React Hooks, explained.
+title: React Hooks
 publishDate: 2021/10/19 14:33
 thumbnail: reacthooks.png
 description: React Hooks are a simple way of adding interactivity to a website. But what is it?

@@ -1,6 +1,6 @@
 ---
 
-title: Javascript, explained.
+title: Javascript
 publishDate: 2022/02/10 14:00
 thumbnail: js.png
 description: Javascript can really make your website come alive. So what is it?

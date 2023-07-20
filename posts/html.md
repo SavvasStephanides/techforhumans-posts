@@ -1,6 +1,6 @@
 ---
 
-title: HTML, explained.
+title: HTML
 publishDate: 2022/01/09 17:57
 thumbnail: html.png
 description: HTML is the backbone of the web. So what is it? Let's explain!

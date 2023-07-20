@@ -1,6 +1,6 @@
 ---
 
-title: Serverless, explained.
+title: Serverless
 publishDate: 2021/12/13 12:25
 thumbnail: serverless.png
 description: Serverless is the easiest way to take your project online. Let's explain what it is and how it works.

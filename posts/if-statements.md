@@ -1,6 +1,6 @@
 ---
 
-title: if statements, explained.
+title: if statements
 publishDate: 2021/09/07 14:33
 thumbnail: ifstatements.png
 description: A simple introduction to if statements in programming

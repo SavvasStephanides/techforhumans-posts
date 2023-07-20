@@ -1,6 +1,6 @@
 ---
 
-title: Javascript Prototypes, explained.
+title: Javascript Prototypes
 publishDate: 2021/10/14 14:33
 thumbnail: jsproto.png
 description: The concept of Javascript Prototypes, in simple terms

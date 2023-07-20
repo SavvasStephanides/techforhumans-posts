@@ -1,5 +1,5 @@
 ---
-title: The CSS Box Model, explained.
+title: The CSS Box Model
 publishDate: 2022/03/07 14:00
 thumbnail: boxmodel.png
 description: The box model is what makes styling possible with CSS. Let's explain what it is.

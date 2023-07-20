@@ -1,6 +1,6 @@
 ---
 
-title: The DOM, explained.
+title: The DOM
 publishDate: 2021/05/17 15:00
 thumbnail: jsdom.png
 ---

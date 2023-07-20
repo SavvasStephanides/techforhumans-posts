@@ -1,5 +1,5 @@
 ---
-title: aria-label in accessibility, explained.
+title: aria-label in accessibility
 publishDate: 2021/08/18 08:47
 thumbnail: arialabel.png
 description: An explanation of the aria-label attribute in accessibility

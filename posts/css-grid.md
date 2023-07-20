@@ -1,5 +1,5 @@
 ---
-title: CSS Grid, explained.
+title: CSS Grid
 publishDate: 2022/05/26 12:00
 thumbnail: cssgrid.png
 description: A brief introduction to the CSS property Grid.

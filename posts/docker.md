@@ -1,6 +1,6 @@
 ---
 
-title: Docker, explained.
+title: Docker
 publishDate: 2021/04/14 16:20
 thumbnail: docker.png
 ---

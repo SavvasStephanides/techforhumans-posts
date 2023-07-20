@@ -1,6 +1,6 @@
 ---
 
-title: Regular expressions, explained
+title: Regular expressions
 publishDate: 2021/05/25 11:01
 thumbnail: regex.png
 ---

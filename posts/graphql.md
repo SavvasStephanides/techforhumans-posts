@@ -1,6 +1,6 @@
 ---
 
-title: GraphQL, explained.
+title: GraphQL
 publishDate: 2021/06/03 14:33
 thumbnail: gql.png
 description: A simple introduction to GraphQL and why it's used

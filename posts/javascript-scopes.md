@@ -1,6 +1,6 @@
 ---
 
-title: Javascript Scopes, explained.
+title: Javascript Scopes
 publishDate: 2021/03/18 00:00
 thumbnail: scope.png
 ---

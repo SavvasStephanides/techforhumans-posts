@@ -1,5 +1,5 @@
 ---
-title: CSS Flexbox, explained.
+title: CSS Flexbox
 publishDate: 2022/05/11 12:00
 thumbnail: flexbox.png
 description: A brief introduction to the CSS property Flexbox.

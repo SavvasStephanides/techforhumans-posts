@@ -1,6 +1,6 @@
 ---
 
-title: Memoization, explained.
+title: Memoization
 publishDate: 2021/09/21 14:00
 thumbnail: memoization.png
 description: How to make your functions in Javascript run faster, using memoization

@@ -1,6 +1,6 @@
 ---
 
-title: Graph databases, explained.
+title: Graph databases
 publishDate: 2021/11/10 12:25
 thumbnail: graphdb.png
 description: Graph databases is a type of NoSQL database that makes it easier to store relationships between entries. Let's explain further

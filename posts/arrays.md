@@ -1,5 +1,5 @@
 ---
-title: Arrays, explained.
+title: Arrays
 publishDate: 2021/09/09 12:00
 thumbnail: arrays.png
 description: An introduction to arrays in programming

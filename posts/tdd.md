@@ -1,6 +1,6 @@
 ---
 
-title: Test-driven Development, explained.
+title: Test-driven Development
 publishDate: 2021/07/29 14:00
 thumbnail: tdd.png
 description: A very simple jargon-free introduction to Test-Driven Development

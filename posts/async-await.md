@@ -1,5 +1,5 @@
 ---
-title: async/await, explained.
+title: async/await
 publishDate: 2021/05/14 08:00
 thumbnail: await.png
 ---

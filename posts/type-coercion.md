@@ -1,6 +1,6 @@
 ---
 
-title: Type coercion in Javascript, explained.
+title: Type coercion in Javascript
 publishDate: 2021/09/02 09:00
 thumbnail: typecoercion.png
 description: A simple explaination of the Javascript concept known as type coercion

@@ -1,6 +1,6 @@
 ---
 
-title: Git, explained.
+title: Git
 publishDate: 2021/05/06 9:00
 thumbnail: git.png
 description: Git is a must for collaborating with other developers. Let's explain further.

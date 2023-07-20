@@ -1,5 +1,5 @@
 ---
-title: ARIA roles, explained.
+title: ARIA roles
 publishDate: 2021/07/29 14:00
 thumbnail: a11y.png
 description: What ARIA roles are in accessibility

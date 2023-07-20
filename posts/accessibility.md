@@ -1,5 +1,5 @@
 ---
-title: Accessibility, explained.
+title: Accessibility
 publishDate: 2021/03/23 16:33
 thumbnail: a11y.png
 ---

@@ -1,10 +1,10 @@
 ---
 
-title: CSS, explained.
+title: CSS
 publishDate: 2022/01/16 17:57
 thumbnail: css.png
 description: CSS makes the web a more colourful place. So what is it? Let's explain.
-keywords: html, css, web, cascading style sheets, explained.
+keywords: html, css, web, cascading style sheets
 twitterimage: https://savvas.me/assets/css-tw.png
 ---
 

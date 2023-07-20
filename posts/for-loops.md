@@ -1,6 +1,6 @@
 ---
 
-title: For loops, explained.
+title: For loops
 publishDate: 2021/10/04 14:33
 thumbnail: forloops.png
 description: A simple introduction to for loops in programming

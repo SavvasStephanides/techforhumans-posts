@@ -1,6 +1,6 @@
 ---
 
-title: Immediately Invoked Function Expressions (IIFE), explained.
+title: Immediately Invoked Function Expressions (IIFE)
 publishDate: 2021/07/26 14:33
 thumbnail: iife.png
 description: A simple introduction to Javascript Immediately Invoked Function Expressions

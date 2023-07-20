@@ -1,5 +1,5 @@
 ---
-title: API, explained.
+title: API
 publishDate: 2021/07/14 12:00
 thumbnail: api.png
 description: An introduction to Application Programming Interface (API)

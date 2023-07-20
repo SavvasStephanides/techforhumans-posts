@@ -1,6 +1,6 @@
 ---
 
-title: MongoDB, explained.
+title: MongoDB
 publishDate: 2021/11/17 9:30
 thumbnail: mongodb.png
 description: MongoDB is a document-based NoSQL database that is faster and easier to store data. What is it? Let's explain.

@@ -1,6 +1,6 @@
 ---
 
-title: Variables, explained.
+title: Variables
 publishDate: 2021/09/06 09:00
 thumbnail: variablesexplained.png
 description: Programming basics - A simple explanation of one of the main building blocks of any program, variables.

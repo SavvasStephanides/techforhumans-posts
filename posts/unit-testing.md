@@ -1,6 +1,6 @@
 ---
 
-title: Unit testing, explained
+title: Unit testing
 publishDate: 2021/04/27 15:30
 thumbnail: tube.png
 description: The best way to make sure your program works as it should. So what is it? Let's explain.
